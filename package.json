@@ -1,0 +1,14 @@
+{
+  "name": "back-office-peerjs",
+  "version": "1.0.0",
+  "description": "Peerjs simple server for backoffice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peer": "^0.6.1"
+  }
+}
